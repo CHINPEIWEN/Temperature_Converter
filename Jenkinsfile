@@ -17,7 +17,7 @@ pipeline {
     stages{
         stage('check'){
             steps {
-                git url: 'https://github.com/CHINPEIWEN/inclass_assignment.git'
+                git url: 'https://github.com/CHINPEIWEN/Temperature_Converter.git'
             }
         }
 
