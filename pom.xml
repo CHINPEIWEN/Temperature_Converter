@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TemperatureConverter</mainClass>
+                            <mainClass>org.example.TemperatureConverter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
