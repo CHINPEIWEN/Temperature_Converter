@@ -17,7 +17,7 @@ pipeline {
     stages{
         stage('check'){
             steps {
-                git branch: 'main', url: 'https://github.com/CHINPEIWEN/Temperature_Converter.git'
+                git url:'https://github.com/CHINPEIWEN/Temperature_Converter.git'
             }
         }
 
